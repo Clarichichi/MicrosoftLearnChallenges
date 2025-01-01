@@ -41,12 +41,3 @@ else
 {
     Console.WriteLine("You win a Kitten!");
 }
-
-/*if (total >= 15)
-{
-    Console.WriteLine("You win!");
-}
-else
-{
-    Console.WriteLine("Sorry,you loose.");
-}*/
